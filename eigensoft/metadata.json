@@ -1,0 +1,32 @@
+{
+    "version": "0.1.0",
+    "suggestions": {
+    },
+    "maintainer_email": "angel@delagoya.com",
+    "recipes": {
+    },
+    "attributes": {
+    },
+    "conflicting": {
+    },
+    "dependencies": {
+    },
+    "providing": {
+    },
+    "replacing": {
+    },
+    "license": "CC0",
+    "groupings": {
+    },
+    "long_description": "",
+    "name": "eigensoft",
+    "recommendations": {
+    },
+    "platforms": {
+      "ubuntu": [
+        "= 9.10"
+      ]
+    },
+    "maintainer": "Angel Pizarro",
+    "description": "Installs EIGENSOFT 3.0"
+  }
