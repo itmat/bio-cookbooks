@@ -5,5 +5,5 @@ license           "CC0"
 description       "Installs EIGENSOFT 3.0"
 version           "0.1"
 
-supports 'ubuntu', '= 9.10'
+supports 'ubuntu', '>= 10.04'
 

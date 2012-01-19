@@ -1,4 +1,0 @@
-deb http://hu.archive.ubuntu.com/ubuntu/ jaunty universe
-deb-src http://hu.archive.ubuntu.com/ubuntu/ jaunty universe
-deb http://hu.archive.ubuntu.com/ubuntu/ jaunty-updates universe
-deb-src http://hu.archive.ubuntu.com/ubuntu/ jaunty-updates universe
